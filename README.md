@@ -3,7 +3,7 @@ This repository includes a computer program for a mathematical theorem paper tit
 
 #### Author: [Ravin Kumar](https://mr-ravin.github.io)
 
-#### Elsevier-SSRN: [https://ssrn.com/abstract=3460506](https://ssrn.com/abstract=3460506)
+#### Elsevier-SSRN, Computation Theory eJournal 11th Oct'2019: [https://ssrn.com/abstract=3460506](https://ssrn.com/abstract=3460506)
 
 #### Preprint OSF.IO: [https://osf.io/ku45y/](https://osf.io/ku45y/)
 
