@@ -32,4 +32,5 @@ num_bits=theorem10.get_bits(x)  # here, we pass x to get_bits function, and it r
 ```
 pip3 install theorem10
 ```
-##### Note: This computer program is made available free to use. Please use this code at your own risk.
+
+##### Note: This work can be used freely after providing citation and/or deserved credits to this work. Please use it at your own risk !!!
