@@ -3,6 +3,12 @@ This repository includes a computer program for a mathematical theorem paper tit
 
 #### Author: [Ravin Kumar](https://mr-ravin.github.io)
 
+#### Publication: 8th October 2019
+
+#### Publication Link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3460506
+
+#### Doi: http://dx.doi.org/10.2139/ssrn.3460506
+
 #### Publication Details:
 
 - #### Elsevier-SSRN, Computation Theory eJournal 11th Oct'2019: [https://ssrn.com/abstract=3460506](https://ssrn.com/abstract=3460506)
