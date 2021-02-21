@@ -3,26 +3,26 @@ This repository includes a computer program for a mathematical theorem paper tit
 
 #### Author: [Ravin Kumar](https://mr-ravin.github.io)
 
-#### Publication: 8th October 2019
+#### Publication:
 
-#### Publication Link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3460506
+#### Publication Journal: 
 
-#### Doi: http://dx.doi.org/10.2139/ssrn.3460506
+#### Publication House:
 
-#### Publication Details:
+#### Publication Link: 
 
-- #### Elsevier-SSRN, Computation Theory eJournal 11th Oct'2019: [https://ssrn.com/abstract=3460506](https://ssrn.com/abstract=3460506)
+#### Doi:
 
 #### Cite as:
 
 ```
-Kumar, Ravin, A Theorem on Numbers of the Form 10^x (September 16, 2019). DOI: 10.31219/osf.io/ku45y,
-(2019). Available at SSRN: https://ssrn.com/abstract=3460506 or http://dx.doi.org/10.2139/ssrn.3460506 
+
 ```
 
 #### Earlier Preprints:
 
-- Osf.io: [https://osf.io/ku45y/](https://osf.io/ku45y/)
+- OSF.io: [https://osf.io/ku45y/](https://osf.io/ku45y/)
+- Elsevier-SSRN, Computation Theory eJournal 11th Oct'2019: [https://ssrn.com/abstract=3460506](https://ssrn.com/abstract=3460506)
 
 ### Demonstration
 
