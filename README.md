@@ -7,9 +7,9 @@ This repository includes a computer program for a mathematical theorem paper tit
 
 #### Publication:
 
-#### Publication Journal: 
+#### Publication Journal: International Journal of Pure and Applied Mathematics Research
 
-#### Publication House:
+#### Publication House: SvedbergOpen
 
 #### Publication Link: 
 
