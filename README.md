@@ -13,13 +13,13 @@ This repository includes a computer program for a mathematical theorem paper tit
 
 #### Publication Link: 
 
-#### Doi:
-
 #### Cite as:
 
 ```
 
 ```
+
+#### Doi:
 
 #### Earlier Preprints:
 
