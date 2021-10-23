@@ -16,6 +16,8 @@ This repository includes a computer program for a mathematical theorem paper tit
 #### Cite as:
 
 ```
+Ravin Kumar (2021). A Theorem on Numbers of the Form 10 X . International Journal of Pure and Applied Mathematics Research, 
+1(1), 1-3. doi: 10.51483/IJPAMR.1.1.2021.xx-xx.
 
 ```
 
