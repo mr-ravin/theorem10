@@ -1,5 +1,5 @@
-# Theorem10 [A theorem in Pure Mathematics]
-This repository includes a computer program for a mathematical theorem paper titled "A Theorem on Numbers of the Form 10<sup>x</sup>"
+# Theorem10 [A Theorem on Numbers of the Form 10<sup>x</sup>]
+This repository includes a computer program for a mathematical theorem paper titled "A Theorem on Numbers of the Form 10<sup>x</sup>", in Pure Mathematics.
 
 #### Paper Title: A Theorem on Numbers of the Form 10<sup>x</sup>
 
