@@ -5,21 +5,22 @@ This repository includes a computer program for a mathematical theorem paper tit
 
 #### Author: [Ravin Kumar](https://mr-ravin.github.io)
 
-#### Publication:
+#### Publication: 5<sup>th</sup> October, 2021.
 
 #### Publication Journal: [International Journal of Pure and Applied Mathematics Research](https://www.svedbergopen.com/journals/International-Journal-of-Pure-and-Applied-Mathematics-Research/About-the-Journal/)
 
 #### Publication House: SvedbergOpen
 
-#### Publication Link: 
+#### Publication Link: https://www.svedbergopen.com/files/1635526259_(5)_IJPAMR28112020MTN001_(p_55-57).pdf
 
 #### Cite as: 
 
-Ravin Kumar (2021). A Theorem on Numbers of the Form 10<sup>x</sup>. International Journal of Pure and Applied Mathematics Research, 
-1(1), 1-3. doi: 10.51483/IJPAMR.1.1.2021.xx-xx.
+Ravin Kumar (2021). A Theorem on Numbers of the Form 10X
+. International Journal of Pure and
+Applied Mathematics Research, 1(1), 55-57. doi: 10.51483/IJPAMR.1.1.2021.55-57.
 
 
-#### Doi: [10.51483/IJPAMR.1.1.2021.xx-xx](https://doi.org/10.51483/IJPAMR.1.1.2021.xx-xx)
+#### Doi: [10.51483/IJPAMR.1.1.2021.55-57](https://doi.org/10.51483/IJPAMR.1.1.2021.55-57)
 
 #### Earlier Preprints:
 
