@@ -13,7 +13,7 @@ This repository includes a computer program for a mathematical theorem paper tit
 
 #### Publication Link: https://www.svedbergopen.com/files/1635526259_(5)_IJPAMR28112020MTN001_(p_55-57).pdf
 
-#### Other Link: https://mr-ravin.github.io/mathematician/static/media/A_Theorem_on_Numbers_of_the_Form_10%5Ex.6ce02303.pdf
+#### Publication Copy: https://mr-ravin.github.io/mathematician/static/media/A_Theorem_on_Numbers_of_the_Form_10%5Ex.6ce02303.pdf
 
 #### Cite as: 
 
