@@ -41,6 +41,12 @@ num_bits=theorem10.get_bits(x)  # here, we pass x to get_bits function, and it r
 ```
 pip3 install theorem10
 ```
+or,
+
+```bash
+pip install git+https://github.com/mr-ravin/theorem10.git
+```
+
 
 ```python
 Copyright (c) 2019 Ravin Kumar
