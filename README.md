@@ -16,11 +16,9 @@ This repository includes a computer program for a mathematical theorem paper tit
 #### Publication Copy: https://mr-ravin.github.io/mathematician/static/media/A_Theorem_on_Numbers_of_the_Form_10%5Ex.6ce02303.pdf
 
 #### Cite as: 
-
-Ravin Kumar (2021). A Theorem on Numbers of the Form 10<sup>x</sup>
-. International Journal of Pure and
-Applied Mathematics Research, 1(1), 55-57. doi: 10.51483/IJPAMR.1.1.2021.55-57.
-
+```
+Ravin Kumar (2021). A Theorem on Numbers of the Form 10<sup>x</sup>. International Journal of Pure and Applied Mathematics Research, 1(1), 55-57. doi: 10.51483/IJPAMR.1.1.2021.55-57.
+```
 
 #### Doi: [10.51483/IJPAMR.1.1.2021.55-57](https://doi.org/10.51483/IJPAMR.1.1.2021.55-57)
 
