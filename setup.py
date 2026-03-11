@@ -8,7 +8,7 @@ setuptools.setup(
 
      name='theorem10',
 
-     version='1.4',
+     version='1.5',
 
      author="Ravin Kumar",
 
