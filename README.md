@@ -11,30 +11,23 @@ This repository includes a computer program for a mathematical theorem paper tit
 
 #### Publication House: [SvedbergOpen](https://www.svedbergopen.com/)
 
-#### Publication Link: https://www.svedbergopen.com/files/1635526259_(5)_IJPAMR28112020MTN001_(p_55-57).pdf
+#### Doi: [10.51483/IJPAMR.1.1.2021.55-57](https://doi.org/10.51483/IJPAMR.1.1.2021.55-57)
 
-#### Publication Copy: https://mr-ravin.github.io/mathematician/static/media/A_Theorem_on_Numbers_of_the_Form_10%5Ex.6ce02303.pdf
+#### Publication: [PDF](https://www.svedbergopen.com/files/1635526259_(5)_IJPAMR28112020MTN001_(p_55-57).pdf)
+
+#### Publication Copy: [PDF](https://mr-ravin.github.io/mathematician/static/media/A_Theorem_on_Numbers_of_the_Form_10%5Ex.81d467c69abaacb62887.pdf)
 
 #### Cite as: 
 ```
 Ravin Kumar (2021). A Theorem on Numbers of the Form 10<sup>x</sup>. International Journal of Pure and Applied Mathematics Research, 1(1), 55-57. doi: 10.51483/IJPAMR.1.1.2021.55-57.
 ```
 
-#### Doi: [10.51483/IJPAMR.1.1.2021.55-57](https://doi.org/10.51483/IJPAMR.1.1.2021.55-57)
-
-#### Earlier Preprints:
+##### Earlier Preprints:
 
 - OSF.io: [https://osf.io/ku45y/](https://osf.io/ku45y/)
 - Elsevier-SSRN, Computation Theory eJournal 11th Oct'2019: [https://ssrn.com/abstract=3460506](https://ssrn.com/abstract=3460506)
 
-### Demonstration
-
-```python
-import theorem10
-x=4 # we took x=4 as an example, for number of form 10^x 
-num_bits=theorem10.get_bits(x)  # here, we pass x to get_bits function, and it returns number of bits 
-                                # that will always represent total numbers greater than 10^x
-```
+---
 
 ### PyPi package installation
 
@@ -47,6 +40,18 @@ or,
 pip install git+https://github.com/mr-ravin/theorem10.git
 ```
 
+### Demonstration
+
+```python
+import theorem10
+x=4 # we took x=4 as an example, for number of form 10^x 
+num_bits=theorem10.get_bits(x)  # here, we pass x to get_bits function, and it returns number of bits 
+                                # that will always represent total numbers greater than 10^x
+```
+
+---
+
+#### 📜 Copyright License
 
 ```python
 Copyright (c) 2019 Ravin Kumar
