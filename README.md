@@ -24,8 +24,8 @@ Ravin Kumar (2021). A Theorem on Numbers of the Form 10<sup>x</sup>. Internation
 
 ##### Earlier Preprints:
 
-- OSF.io: [https://osf.io/ku45y/](https://osf.io/ku45y/)
-- Elsevier-SSRN, Computation Theory eJournal 11th Oct'2019: [https://ssrn.com/abstract=3460506](https://ssrn.com/abstract=3460506)
+- OSF.io: [PDF](https://osf.io/ku45y/)
+- Elsevier-SSRN, Computation Theory eJournal 11th Oct'2019: [PDF](https://ssrn.com/abstract=3460506)
 
 ---
 
