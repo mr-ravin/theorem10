@@ -1,21 +1,21 @@
 # Theorem10 [A Theorem on Numbers of the Form 10<sup>x</sup>]
 This repository includes a computer program for a mathematical theorem paper titled "A Theorem on Numbers of the Form 10<sup>x</sup>", in Pure Mathematics.
 
-#### Paper Title: A Theorem on Numbers of the Form 10<sup>x</sup>
+**Paper Title**: A Theorem on Numbers of the Form 10<sup>x</sup>
 
-#### Author: [Ravin Kumar](https://mr-ravin.github.io)
+**Author**: [Ravin Kumar](https://mr-ravin.github.io)
 
-#### Publication: 5<sup>th</sup> October, 2021.
+Publication: 5<sup>th</sup> October, 2021.
 
-#### Publication Journal: [International Journal of Pure and Applied Mathematics Research](https://www.svedbergopen.com/journals/International-Journal-of-Pure-and-Applied-Mathematics-Research/About-the-Journal/)
+Publication Journal: [International Journal of Pure and Applied Mathematics Research](https://www.svedbergopen.com/journals/International-Journal-of-Pure-and-Applied-Mathematics-Research/About-the-Journal/)
 
-#### Publication House: [SvedbergOpen](https://www.svedbergopen.com/)
+Publication House: [SvedbergOpen](https://www.svedbergopen.com/)
 
-#### Doi: [10.51483/IJPAMR.1.1.2021.55-57](https://doi.org/10.51483/IJPAMR.1.1.2021.55-57)
+Doi: [10.51483/IJPAMR.1.1.2021.55-57](https://doi.org/10.51483/IJPAMR.1.1.2021.55-57)
 
-#### Publication: [PDF](https://www.svedbergopen.com/files/1635526259_(5)_IJPAMR28112020MTN001_(p_55-57).pdf)
+Publication: [PDF](https://www.svedbergopen.com/files/1635526259_(5)_IJPAMR28112020MTN001_(p_55-57).pdf)
 
-#### Publication Copy: [PDF](https://mr-ravin.github.io/mathematician/static/media/A_Theorem_on_Numbers_of_the_Form_10%5Ex.81d467c69abaacb62887.pdf)
+Publication Copy: [PDF](https://mr-ravin.github.io/mathematician/static/media/A_Theorem_on_Numbers_of_the_Form_10%5Ex.81d467c69abaacb62887.pdf)
 
 #### Cite as: 
 ```
